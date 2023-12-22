@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/item-api.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/item-api.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/item-api.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/item-api.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/minestom/item-api.minestom.main.iml" filepath="$PROJECT_DIR$/.idea/modules/minestom/item-api.minestom.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spigot-legacy/item-api.spigot-legacy.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spigot-legacy/item-api.spigot-legacy.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spigot-modern/item-api.spigot-modern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spigot-modern/item-api.spigot-modern.main.iml" />
+    </modules>
+  </component>
+</project>

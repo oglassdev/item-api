@@ -1,0 +1,9 @@
+[libraries]
+minestom = "dev.hollowcube:minestom-ce:1554487748"
+hephiastos = "io.github.jglrxavpok.hephaistos:common:2.2.0"
+spigot-legacy = "org.spigotmc:spigot-api:1.8.8-R0.1-SNAPSHOT"
+spigot-modern = "org.spigotmc:spigot-api:1.20.4-R0.1-SNAPSHOT"
+
+[plugins]
+shadow = { id = "com.github.johnrengelman.shadow", version = "8.1.1" }
+serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version = "1.9.21" }
